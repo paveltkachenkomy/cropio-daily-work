@@ -2,7 +2,7 @@
 // @name Сropio-daily-work
 // @namespace Cropio
 // @version 1.0.0
-// @Author Павел Тккаченко
+// @Author Павел Ткаченко
 // @homepage https://github.com/paveltkachenkomy/cropio-daily-work
 // @description Добавление названий полей в раздел "Работа машин по дням"
 // @downloadURL https://raw.githubusercontent.com/paveltkachenkomy/cropio-daily-work/master/index.js

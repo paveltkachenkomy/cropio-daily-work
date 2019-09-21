@@ -5,8 +5,8 @@
 // @author          Павел Ткаченко
 // @description     Добавление названий полей в раздел "Работа машин по дням"
 // @homepage        https://github.com/paveltkachenkomy/cropio-daily-work
-// @downloadURL     https://raw.githubusercontent.com/paveltkachenkomy/cropio-daily-work/master/index.js
-// @updateURL       https://raw.githubusercontent.com/paveltkachenkomy/cropio-daily-work/master/index.js
+// @downloadURL     https://raw.githubusercontent.com/paveltkachenkomy/cropio-daily-work/master/cropio-daily-work.user.js.js
+// @updateURL       https://raw.githubusercontent.com/paveltkachenkomy/cropio-daily-work/master/cropio-daily-work.user.js.js
 // @include         https://cropio.com/machines/reports/daily_work*
 // ==/UserScript==
 $('.task_record_block').prepend('<span></span><br>');
